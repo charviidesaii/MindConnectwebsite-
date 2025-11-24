@@ -91,5 +91,4 @@ This project was developed as a personal initiative during my **senior year of h
 This project is licensed under the **MIT License**.
 
 ---
- 
-Just tell me — I can generate those too!
+  
